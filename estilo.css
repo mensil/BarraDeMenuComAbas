@@ -12,7 +12,7 @@ ul{
 
 ul li{
 	float: left;
-	background: url(aba-direita.png) no-repeat top right;
+	background: url(../aba-direita.png) no-repeat top right;
 
 }
 
@@ -21,7 +21,7 @@ li a{
 	padding: 0 2em;
 	line-height: 3em;
 	text-decoration: none;
-	background: url(aba-esquerda.png) no-repeat top left;
+	background: url(../aba-esquerda.png) no-repeat top left;
 	color: #fff;
 }
 
@@ -31,10 +31,10 @@ ul a:hover{
 }
 
 ul #atual{
-	background: url(aba-direita-atual.png) no-repeat top right;
+	background: url(../aba-direita-atual.png) no-repeat top right;
 }
 
 ul #atual a {
-	background: url(aba-esquerda-atual.png) no-repeat top left;
+	background: url(../aba-esquerda-atual.png) no-repeat top left;
 
 }
